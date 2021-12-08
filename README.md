@@ -36,3 +36,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gim128&" alt="gim128" /></p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gim128&theme=dracula)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gim128&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gim128&theme=dracula) 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gim128&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gim128&theme=dracula)
+
