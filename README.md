@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gim128&label=Profile%20views&color=0e75b6&style=flat" alt="gim128" /> </p>
 
-- 🔭 UI/UX & Front-end Developer @  [iCan Lanka (PV) LTD](https://icanlk.com/)
+- 🔭 UI/UX & Front-end Developer @  [Evoke International](https://evoke.lk/)
 
 - 🌱 I’m currently learning **Internet Technologies & Java EE**
 
